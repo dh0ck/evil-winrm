@@ -33,6 +33,7 @@ purposes by system administrators as well but the most of its features are focus
  - Colorization on prompt and output messages (can be disabled optionally)
  - Docker support (prebuilt images available at [Dockerhub])
  - Trap capturing to avoid accidental shell exit on Ctrl+C
+ - GlobalPwn, a feature to translate the output from any language to any language in real time.
 
 ## Help
 ```
